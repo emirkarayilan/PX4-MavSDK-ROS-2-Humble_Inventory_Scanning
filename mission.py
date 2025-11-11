@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-# Drone ile depo raflarındaki kutuları tarama görevi
 
 import asyncio
 from mavsdk import System
